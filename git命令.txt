@@ -1,0 +1,29 @@
+基础命令
+1. cd ~/Documents/        ##  ~代表当前用户目录  Documents代表文档
+
+2.cd 目录名
+例如 $ cd cinderellastory415.github.io/
+
+3.ls    		  ## 列出目录下文件
+
+4.pwd 		 	  ## 显示当前目录
+
+
+git相关：
+1. git clone 地址      
+例如: $ git clone https://github.com/cinderellastory415/cinderellastory415.github.io.git
+
+2.git add .  		  ## 添加到缓冲区
+
+3.git commit -m "my first commit"  ## 提交到本地仓库
+
+4.git log 		  ## 查看提交日志
+
+5.git push 		  ## 提交到远程仓库
+
+6.git status             ##查看状态			
+
+其他
+tab建提示
+ctrl+L  清屏翻页
+cd ..表示上一层目录
